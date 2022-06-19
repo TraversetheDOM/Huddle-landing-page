@@ -1,33 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Huddle landing page with single introductory section</title>
+<!-- Google Fonts Links  -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+  rel="stylesheet"
+/>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
+  rel="stylesheet"
+/>
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-</head>
-<body>
 
-  Build The Community Your Fans Will Love
+<!-- CSS links  -->
+<link rel="stylesheet" href="css/reset.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/queries.css" />
 
-  Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
-  Create connections with your users as you engage in genuine discussion. 
+    <title>
+      Frontend Mentor | Huddle landing page with single introductory section
+    </title>
 
-  Register
+    
+  <body>
 
-  <footer>
-    <p class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Your Name Here</a>.
-    </p>
-  </footer>
-</body>
+
+    <!-- MAIN  -->
+    <main>
+
+<!-- SECTION -->
+<section class="landing_page">
+  <div class="container">
+    <a href="#" class="image_logo">
+      <img src="images/logo.svg" class="logo_img" alt="huddle logo">
+    </a>
+    <div class="grid_container">
+      <figure class="image-logo_section">
+        <img src="images/illustration-mockups.svg" class="section_image" alt="illustartion">
+      </figure>
+      <div class="text_box">
+        <h1 class="section_title"> Build The Community Your Fans Will Love</h1>
+        <p class="section_description">
+          Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
+          Create connections with your users as you engage in genuine discussion. 
+        </p>
+        <a class="btn" href="#">Register</a>
+      </div>
+    </div>
+    <ul class="icon_list">
+      <li class="icon_list_item">
+        <a href="#" class="icon_link">
+          <ion-icon name="logo-facebook" class="icons"></ion-icon>
+      </a>
+      </li>
+      <li class="icon_list_item">
+        <a href="#" class="icon_link">
+          <ion-icon name="logo-twitter" class="icons"></ion-icon>
+        </a>
+      </li>
+
+      <li class="icon_list_item">
+        <a href="#" class="icon_link">
+          <ion-icon name="logo-instagram" class="icons"></ion-icon>
+        </a>
+      </li>
+    </ul>
+  </div> 
+</section>
+    </main>
+    
+    <!-- footer -->
+    <footer class="footer">
+      <div class="container">
+      <p class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+           class="footer_link">Frontend Mentor</a
+        >. Coded by <a href="https://github.com/" target="_blank" class="footer_link">SalutDami</a>.
+      </p>
+    </div>
+    </footer>
+   
+
+
+
+    <!-- ICON LINK  -->
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+  </body>
 </html>
+
+
