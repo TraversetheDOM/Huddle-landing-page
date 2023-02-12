@@ -30,8 +30,8 @@ _A mobile view or the project_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/Huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/Huddle-landing-page/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Huddle-landing-page)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Huddle-landing-page/)
 
 ## My process
 
