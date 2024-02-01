@@ -30,8 +30,8 @@ _A mobile view or the project_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Huddle-landing-page/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/Huddle-landing-page)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/Huddle-landing-page/)
 
 ## My process
 
@@ -45,6 +45,6 @@ _A mobile view or the project_
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
